@@ -1,6 +1,6 @@
 import cv2
 
-imaeg = cv2.imread("input.jpg")
+image = cv2.imread("input.png")
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 invert = cv2.bitwise_not(gray)
 blur = cv2.GaussianBlur(invert, (21, 21), 0)
