@@ -1,6 +1,6 @@
 # Python Image convert to Pencil Sketch
 
-Convert your images into **sketch** using **Python OpenCV**.
+Convert your images into **sketches** using **Python OpenCV**.
 
 > We convert an image into sketch file or add sketch filter.
 
